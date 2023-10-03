@@ -1,0 +1,21 @@
+c++ funkcja swich() case
+
+int zmienna = 1;
+swich(zmienna){
+	case 1:
+		//jakis kod nr1
+		// np wywołanie funkcji, klasy, itd...
+	break;
+	case 2:
+		//jakis kod nr2
+		// np wywołanie funkcji, klasy, itd...
+	break;
+	case 3:
+		//jakis kod nr3
+		// np wywołanie funkcji, klasy, itd...
+	break;
+	default:
+		//tutej wykona się zawsze kod domyślnie
+		// np wywołanie funkcji, klasy, itd...
+	break;
+}
